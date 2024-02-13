@@ -64,6 +64,6 @@ The bn_words() function also can take another parameter that is the name of the 
 
 I needed to learn text processing using python. I was surprised by the fact that I was able to understand most of the stuff by googling or asking ChatGPT. I thought it would take much longer than I thought it would. Python seems really good at processing text files.
 
-What might you consider to be a good outcome for your project? A better outcome? The best outcome?
+## What might you consider to be a good outcome for your project? A better outcome? The best outcome?
 
-A better outcome would be GUI application using python. I looked around and found Tkinter, Pyside and Pyqt5. I also came across flet and tried to make it word on cs50 codespace but it didn't work. After reviewing all of them, I created a basic GUI using PyQt5.
+A better outcome would be GUI application using python. I looked around and found Tkinter, Pyside and Pyqt5. I also came across flet and tried to make it work on cs50 codespace but it didn't work. After reviewing all of them, I created a basic GUI using PyQt5.
