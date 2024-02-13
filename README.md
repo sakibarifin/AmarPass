@@ -51,7 +51,7 @@ I can't and I think most people are the same. Random passwords are ok if you alw
 
 That's where my solution kicks in. It allows me to use my own wordlist to generate a password. I want to use my own mother language for passwords securely and this app does this well. This ensures that I have able to easily remember the passwords.
 
-Here's how it works.
+### How it works
 
 First there is the wordlist where I have listed 1000s of words that could be used like the bip 39 wordlist used in many systems. A function is used to pick 3 words. This is customizable using the word_count parameter of the bn_words() function.
 
