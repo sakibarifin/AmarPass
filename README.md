@@ -1,11 +1,11 @@
 
 # AmarPass
-#### Banglish Password Generator
+#### Banglish Memorable Password Generator
 #### Video Demo: https://youtu.be/5ngS6jiJ3dY
 
 #### Description
 
-AmarPass is a password generator for Bangla speakers. It can use wordlists of banglish words to generate passwords that are easier to remember for Bengalis.
+AmarPass is a password generator and estimator for Bangla speakers. It can use wordlists of banglish words to generate passwords that are easier to remember for Bengalis.
 
 It generates a password using a combination of the words in the list and separators which are numbers and special characters (the user can change the parameter to include uppercase letters as well).
 
