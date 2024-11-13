@@ -49,7 +49,7 @@ One major issue I face with modern password managers is that I am forced to alwa
 
 I can't and I think most people are the same. Random passwords are ok if you always rely on a password manager. But even if you have 100s of passwords, you might still need to memorize 5-10 passwords or even more for increasing productivity or some other reason.
 
-That's where my solution kicks in. It allows me to use my own wordlist to generate a password. I want to use my own mother language for passwords securely and this app does this well. This ensures that I have able to easily remember the passwords.
+That's where my solution kicks in. It allows me or other Bangla speakers to use my own wordlist to generate a password. I want to use my own mother language for passwords that are easy to remember and secure.
 
 ### How it works
 
@@ -57,5 +57,5 @@ First there is the wordlist where I have listed 1000s of words that could be use
 
 The bn_words() function also can take another parameter that is the name of the wordlist. The defaults are:
 
-> bn_words(word_count=3, input_wordlist="1_avro_wordlist.txt")
+```> bn_words(word_count=3, input_wordlist="1_avro_wordlist.txt")```
 
